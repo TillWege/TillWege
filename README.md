@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Till</h1>
-- 🔭 I’m currently working on **Project Athena**
+- 🔭 I’m currently working on Game of Life clone that is implemented in Rust (https://github.com/TillWege/TillWege.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
