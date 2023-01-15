@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Till</h1>
-- 🔭 I’m currently working (among other things) on a [Raytracer in Rust](https://github.com/TillWege/raytracer)
+🔭 I’m currently working (among other things) on a [Raytracer in Rust](https://github.com/TillWege/raytracer)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tillwege" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tillwege" height="30" width="40" /></a>
